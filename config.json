@@ -1,19 +1,19 @@
 {
 	"PATH": {
 		"src": "source",
-		"dist": "build",
+		"dist": "docs",
 		"src_js": "source/assets/js",
-		"dist_js": "build/assets/js",
+		"dist_js": "docs/assets/js",
 		"src_css": "source/assets/scss",
-		"dist_css": "build/assets/css",
+		"dist_css": "docs/assets/css",
 		"src_img": "source/assets/img",
-		"dist_img": "build/assets/img"
+		"dist_img": "docs/assets/img"
 	},
 	"SERVER": {
 		"port": 3000,
 		"injectChanges": true,
 		"server": {
-			"baseDir": "build"
+			"baseDir": "docs"
 		},
 		"ghostMode": {
 			"clicks": false,
@@ -49,7 +49,7 @@
 		"port": 21,
 		"user": "",
 		"password": "",
-		"localFiles": "build/**/*.*",
+		"localFiles": "docs/**/*.*",
 		"remoteFolder": ""
 	}
 }
