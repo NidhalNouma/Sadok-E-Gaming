@@ -3,69 +3,69 @@
 		"home": [
 			{
 				"format": "default",
-				"title": "League of heroes presented a new character",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v1-post-img-01.jpg",
+				"title": "CALL OF DUTY: BLACK OPS COLD WAR",
+				"excerpt": "Call of Duty®: Black Ops Cold War tells the story of a conspiracy decades in the making, culminating in the early 1980s in the heat of the Cold War. This direct sequel to the original Black Ops® picks up where the first game left off, with Alex Mason, Frank Woods, and Jason Hudson joining forces with a new cast of operatives to unravel a global terrorist plot.",
+				"img": "https://jeu.video/wp-content/uploads/2020/10/1599723560-2484-jaquette-avant.jpeg",
 				"category": {
 					"class": "color-warning",
 					"name": "Gaming"
 				},
-				"date": "August 15th, 2018"
+				"date": "November 12th, 2020"
 			},
 			{
 				"format": "default",
-				"title": "The Necromancers emerge victorious once more!",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v1-post-img-02.jpg",
+				"title": "CALL OF DUTY: BLACK OPS 2",
+				"excerpt": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future, 21st Century Cold War, where technology and weapons have converged to create a new generation of warfare.",
+				"img": "https://static.wikia.nocookie.net/callofduty/images/7/74/Black_Ops_II_Cover_Art.jpg",
 				"category": {
 					"class": "color-success",
 					"name": "eSports"
 				},
-				"date": "August 14th, 2018"
+				"date": "November 12th, 2012"
 			},
 			{
 				"format": "default",
-				"title": "Matt Rodgers talks about becoming a pro gamer",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v1-post-img-03.jpg",
+				"title": "CALL OF DUTY: BLACK OPS 3",
+				"excerpt": "Welcome to Call of Duty: Black Ops III, a dark future where a new breed of Black Ops soldier emerges and the lines are blurred between humanity and the technology we created to stay ahead, in a world where cutting-edge military robotics define warfare.",
+				"img": "https://static.wikia.nocookie.net/callofduty/images/7/76/Game_cover_art_BOIII.jpg",
 				"category": {
 					"class": "color-success",
 					"name": "eSports"
 				},
-				"date": "August 10th, 2018"
+				"date": "August 19th, 2015"
 			},
 			{
 				"format": "default",
-				"title": "Magimons will have a new class: Pyromancer",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v1-post-img-04.jpg",
+				"title": "CALL OF DUTY: WORLD AT WAR",
+				"excerpt": "Call of Duty®: Black Ops 4 features grounded and fluid Multiplayer combat, the biggest Zombies offering ever, and Blackout, where the universe of Black Ops comes to life in a massive Battle Royale experience.",
+				"img": "https://cdn.akamai.steamstatic.com/steam/apps/10090/capsule_616x353.jpg",
 				"category": {
 					"class": "color-warning",
 					"name": "Gaming"
 				},
-				"date": "August 8th, 2018"
+				"date": "November 11th, 2008"
 			},
 			{
 				"format": "video",
-				"title": "Jack shows a sneak peak of the new loh expansion",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v4-post-img-04.jpg",
+				"title": "CALL OF DUTY: BLACK OPS 2",
+				"excerpt": "Experience the intensity and brutality of war like never before. Unleash the power of the flamethrower, flame tanks, and other lethal weaponry while battling through the most harrowing campaigns in the Pacific and Europe.",
+				"img": "https://img.g2a.com/1080x1080/1x1x0/call-of-duty-black-ops-ii-steam-key-global/59847c415bafe3a5d2201fd3",
 				"category": {
 					"class": "color-danger",
 					"name": "Videos"
 				},
-				"date": "August 3rd, 2018"
+				"date": "November 13th, 2012"
 			},
 			{
 				"format": "default",
-				"title": "The team tested the new vr pod at 2018 gamexcon",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit mollitia modi, tempore, pariatur, error quaerat dolorum laborum, commodi laudantium soluta sit reiciendis praesentium dolore cumque ab.",
-				"img": "assets/img/samples/news-v4-post-img-06.jpg",
+				"title": "CALL OF DUTY: BLACK OPS",
+				"excerpt": "Call of Duty®: Black Ops takes you deep behind enemy lines into the world of deniable operations as a member of an elite special forces unit engaging in covert warfare, classified operations, and explosive conflicts across the globe. With access to a variety of exclusive weaponry and equipment, your actions will tip the balance during the most dangerous time period mankind has ever known.",
+				"img": "https://s1.gaming-cdn.com/images/products/60/orig/jeu-steam-call-of-duty-black-ops-cover.jpg",
 				"category": {
 					"class": "color-success",
 					"name": "eSports"
 				},
-				"date": "July 24th, 2018"
+				"date": "November 9th, 2010"
 			}
 		],
 		"blog-1": [
@@ -1590,8 +1590,8 @@
 			}
 		},
 		"player-4": {
-			"name": "Mark Johnson",
-			"nickname": "Crazzzy_80",
+			"name": "SADOK E Gaming",
+			"nickname": "G-SADOK",
 			"photo": "assets/img/samples/player-info-page-player-photo-04.png",
 			"color": "color-4",
 			"sections": {
@@ -1599,40 +1599,40 @@
 					"details": [
 						{
 							"key": "Age",
-							"value": "22 Years"
+							"value": "28 Years"
 						},
 						{
 							"key": "Since",
-							"value": "March 2015"
+							"value": "March 2005"
 						},
 						{
 							"key": "Born",
-							"value": "Los Angeles, USA"
+							"value": "United Kingdom"
 						},
 						{
 							"key": "Team",
-							"value": "Xenowatch"
+							"value": "KNOCK FINSH "
 						},
 						{
-							"key": "Role",
-							"value": "Support"
+							"key": "Class",
+							"value": "REFITTER"
 						}
 					],
 					"social": [
 						{
-							"link": "https://www.facebook.com/danfisher.dev/"
+							"link": "https://www.facebook.com/SADOK-E-Gaming-101163365722198/?ref=page_internal"
 						},
 						{
-							"link": "https://twitter.com/danfisher_dev"
+							"link": "https://twitter.com/dallel_sadok"
 						},
 						{
-							"link": "https://twitch.tv"
+							"link": "https://www.youtube.com/channel/UCLeqSFN7a_7-dCD6rlRTVJQ"
 						},
 						{
-							"link": "https://www.instagram.com/dan.fisher.dev/"
+							"link": "https://discord.com/invite/paxFKxgv"
 						}
 					],
-					"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					"content": "Im sadok, I play games , you're all magical humans what else is there to say , So basically I'm a bit wierd, I say random shit but I'm very chill, musical and accepting  oh yeah and I love playing video game,at the age of 9 I started to play COD/HALO/CS. I eventually fell in love with COD and decided to pursue my dream of making COD a career. I'm not where I want to be yet but I won't stop until I'm there. ❤"
 				},
 				"stats": {
 					"title": "Statistics",
@@ -1640,7 +1640,7 @@
 						{
 							"label": "AVG Game",
 							"title": "Kills",
-							"value": "5.2"
+							"value": "3.2"
 						},
 						{
 							"label": "Avg Game (k)",
@@ -1648,18 +1648,18 @@
 							"value": "7.1"
 						},
 						{
-							"label": "Avg Game (k)",
+							"label": "Games Played",
 							"title": "Healing",
-							"value": "9.2"
+							"value": "7323"
 						},
 						{
 							"label": "Games",
 							"title": "Won",
-							"value": "98"
+							"value": "5170"
 						},{
 							"label": "Games",
 							"title": "Lost",
-							"value": "14"
+							"value": "2153"
 						}
 					],
 					"winratio": {
@@ -1671,32 +1671,32 @@
 					"title": "Achievements",
 					"details-1": [
 						{
-							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"icon": "achievements-trophy",
+							"title": "NLG Dream Tournament 2",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Call of Duty Challengers Elite 2021 Stage 3 North America",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
-							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"icon": "achievements-trophy",
+							"title": "Call of Duty Challengers Elite 2021 Stage 3 Europe",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "CheckMate Gaming TST Invitational",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
-							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"icon": "achievements-trophy",
+							"title": "GFight Invitational",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						}
@@ -1754,18 +1754,18 @@
 					"details-3": [
 						{
 							"icon": "kills",
-							"title": "29 Kills",
+							"title": "78 Kills",
 							"label": "Record kills"
 						},
 						{
 							"icon": "damage",
-							"title": "38.456",
+							"title": "8900",
 							"label": "Record damage"
 						},
 						{
 							"icon": "healing",
-							"title": "58.607",
-							"label": "Record healing"
+							"title": "45",
+							"label": "Kill Streak"
 						}
 					]
 				},
