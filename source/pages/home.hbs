@@ -12,7 +12,9 @@ layout: horizontal
 		<div class="post__thumbnail">
 
 			{{#ifequal format 'default'}}
-			<a href="blog-post.html"><img src="{{img}}" alt=""></a>
+			{{!-- <a href="blog-post.html"> --}}
+				<img src="{{img}}" alt="">
+				{{!-- </a> --}}
 			{{/ifequal}}
 
 			{{#ifequal format 'video'}}

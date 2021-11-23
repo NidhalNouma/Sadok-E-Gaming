@@ -43,7 +43,7 @@
   },
   "scripts": {
     "start": "gulp",
-    "build": "gulp build --production",
+    "build": "gulp build --production && cp CNAME ./docs",
     "deploy": "gulp deploy --production"
   },
   "dependencies": {

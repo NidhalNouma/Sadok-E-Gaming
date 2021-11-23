@@ -4,29 +4,84 @@ body-class: bg-image bg-fixed bg--texture-01 bg--dotted-3x3
 
 <!-- Content
 ================================================== -->
-<main class="site-content site-content--center page" id="wrapper">
-	<div class="container container--large">
-		<div class="page-heading page-heading--default text-center w-100">
-			<div class="page-heading__subtitle h5">
-				<span class="color-primary">Please Select A</span>
-			</div>
-			<h1 class="page-heading__title h2">Game Squad</h1>
-		</div>
-		<div class="row mt-sm-auto mb-sm-auto">
-			{{#each content.team.selection-2}}
-			<div class="col-sm-6 col-lg-3">
-				<div class="team-selection-item team-selection-item--style-1 text-center">
-					<a href="{{url}}" class="team-selection-item__thumbnail">
-						<div class="team-selection-item__thumbnail-inner">
-							<img src="{{img}}" alt="">
-						</div>
-						<img class="team-selection-item__logo team-selection-item__logo--middle" src="{{logo}}" srcset="{{logo2x}} 2x" alt="">
-					</a>
-					<span class="team-selection-item__subtitle h6">{{team}}</span>
-					<h2 class="team-selection-item__title">{{game}}</h2>
+<main class="site-content" id="wrapper">
+
+	<div class="team-selection-slider js-team-selection-slider">
+
+		{{#each content.team.selection-1}}
+		<!-- Slide #{{@index}} -->
+		<div class="team-selection__slide team-selection__slide--{{category}}">
+			<div class="team-selection__slide-inner">
+
+				<!-- Slide Heading -->
+				<div class="team-selection__slide-heading">
+					<div class="team-selection__slide-logo">
+						<img style="width: 200px;" src="{{logo}}" srcset="{{logo2x}}" alt="">
+					</div>
+					<h5 class="team-selection__slide-subtitle">{{team}}</h5>
+					<h2 class="team-selection__slide-title">
+						<a href="{{url}}"
+							class="team-selection__slide-title-link team-selection__slide-title--has-link-plus">{{{game}}}
+							<span class="link-plus"></span></a>
+					</h2>
 				</div>
+				<!-- Slide Heading / End -->
+
+				<!-- Slide Body -->
+				<div class="team-selection__slide-body">
+
+					<h3 style="color: white;">Simo</h3>
+					<h3 style="color: white;">Helix</h3>
+					<h3 style="color: white;">Kharate</h3>
+					<h3 style="color: white;">Escanor</h3>
+					<h3 style="color: white;">Yakuza</h3>
+					<h3 style="color: white;">Kira</h3>
+					<h3 style="color: white;">Hunter</h3>
+					<h3 style="color: white;">Magiwara</h3>
+
+					<!-- Players -->
+					{{!-- <div class="team-selection__slide-players">
+						{{#each players}}
+						<img src="{{img}}" alt="" class="team-selection__slide-player">
+						{{/each}}
+					</div> --}}
+					<!-- Players / End -->
+
+					{{#ifequal @index 0}}
+					<div class="ncr-decor-wrapper">
+						<div class="ncr-decor d-none d-sm-block">
+							<div class="ncr-decor__layer-1">
+								<div class="ncr-decor__layer-bg"></div>
+							</div>
+							<div class="ncr-decor__layer-2">
+								<div class="ncr-decor__layer-bg"></div>
+							</div>
+							<div class="ncr-decor__layer-3">
+								<div class="ncr-decor__layer-bg"></div>
+							</div>
+							<div class="ncr-decor__layer-4"></div>
+							<div class="ncr-decor__layer-5"></div>
+						</div>
+						<div class="ncr-decor ncr-decor--reverse d-none d-sm-block">
+							<div class="ncr-decor__layer-1">
+								<div class="ncr-decor__layer-bg"></div>
+							</div>
+							<div class="ncr-decor__layer-2">
+								<div class="ncr-decor__layer-bg"></div>
+							</div>
+							<div class="ncr-decor__layer-3"></div>
+							<div class="ncr-decor__layer-4"></div>
+							<div class="ncr-decor__layer-5"></div>
+						</div>
+					</div>
+					{{/ifequal}}
+
+				</div>
+				<!-- Slide Body / End -->
+
 			</div>
-			{{/each}}
 		</div>
+		<!-- Slide #{{@index}} -->
+		{{/each}}
 	</div>
 </main>

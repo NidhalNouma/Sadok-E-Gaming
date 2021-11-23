@@ -38,7 +38,7 @@
 				"format": "default",
 				"title": "CALL OF DUTY: WORLD AT WAR",
 				"excerpt": "Call of Duty®: Black Ops 4 features grounded and fluid Multiplayer combat, the biggest Zombies offering ever, and Blackout, where the universe of Black Ops comes to life in a massive Battle Royale experience.",
-				"img": "https://cdn.akamai.steamstatic.com/steam/apps/10090/capsule_616x353.jpg",
+				"img": "https://wallpaperaccess.com/full/2050698.jpg",
 				"category": {
 					"class": "color-warning",
 					"name": "Gaming"
@@ -46,7 +46,7 @@
 				"date": "November 11th, 2008"
 			},
 			{
-				"format": "video",
+				"format": "default",
 				"title": "CALL OF DUTY: BLACK OPS 2",
 				"excerpt": "Experience the intensity and brutality of war like never before. Unleash the power of the flamethrower, flame tanks, and other lethal weaponry while battling through the most harrowing campaigns in the Pacific and Europe.",
 				"img": "https://img.g2a.com/1080x1080/1x1x0/call-of-duty-black-ops-ii-steam-key-global/59847c415bafe3a5d2201fd3",
@@ -616,12 +616,12 @@
 		"selection-1": [
 			{
 				"url": "team-overview.html",
-				"img": "assets/img/samples/team-selection-01-xs.jpg",
+				"img": "assets/img/samples/team-selection-logo-01-100",
 				"logo": "assets/img/team-selection-logo-01-100.png",
-				"logo2x": "assets/img/team-selection-logo-01-100@2x.png 2x",
-				"logo-sm": "assets/img/team-selection-logo-01-70.png",
-				"team": "Necromancers",
-				"game": "Xenowatch",
+				"logo2x": "assets/img/team-selection-logo-01-100.png",
+				"logo-sm": "assets/img/team-selection-logo-01-100.png",
+				"team": "E-Sport",
+				"game": "Knock Finish",
 				"category": "category-1",
 				"players": [
 					{
@@ -757,37 +757,70 @@
 				"game": "Fortdaite"
 			}
 		],
-		"selection-4": [
+		"selection-3": [
 			{
-				"url": "team-overview.html",
+				"url": "https://www.facebook.com/elmaallemdiv",
 				"bg": "assets/img/samples/team-selection-character-01-bg.jpg",
 				"character": "assets/img/samples/team-selection-character-01.png",
-				"team": "Necromancers",
-				"game": "Xenowatch",
+				"team": "Knock Finish",
+				"game": "The1One",
 				"category": "team-3"
 			},
 			{
-				"url": "team-overview.html",
+				"url": "https://www.facebook.com/karim.chbiyda",
 				"bg": "assets/img/samples/team-selection-character-02-bg.jpg",
 				"character": "assets/img/samples/team-selection-character-02.png",
-				"team": "Necromancers",
-				"game": "League of Heroes",
+				"team": "Knock Finish",
+				"game": "Helix",
 				"category": "team-1"
 			},
 			{
-				"url": "team-overview.html",
+				"url": "https://www.facebook.com/saad.asouki",
 				"bg": "assets/img/samples/team-selection-character-03-bg.jpg",
 				"character": "assets/img/samples/team-selection-character-03.png",
-				"team": "Necromancers",
-				"game": "Striker Go",
+				"team": "Knock Finish",
+				"game": "Kharate",
 				"category": "team-4"
 			},
 			{
-				"url": "team-overview.html",
+				"url": "https://www.facebook.com/wadie.moujahid.568",
 				"bg": "assets/img/samples/team-selection-character-04-bg.jpg",
 				"character": "assets/img/samples/team-selection-character-04.png",
-				"team": "Necromancers",
-				"game": "Fortdaite"
+				"team": "Knock Finish",
+				"game": "Pisto Lero"
+			}
+		],
+		"selection-4": [
+			{
+				"url": "https://www.facebook.com/Saad.crazy",
+				"bg": "assets/img/samples/team-selection-character-01-bg.jpg",
+				"character": "assets/img/samples/team-selection-character-01.png",
+				"team": "Knock Finish",
+				"game": "Killua",
+				"category": "team-3"
+			},
+			{
+				"url": "https://www.facebook.com/men.motchoo",
+				"bg": "assets/img/samples/team-selection-character-02-bg.jpg",
+				"character": "assets/img/samples/team-selection-character-02.png",
+				"team": "Knock Finish",
+				"game": "Simo",
+				"category": "team-1"
+			},
+			{
+				"url": "https://www.facebook.com/bul.ly.75470",
+				"bg": "assets/img/samples/team-selection-character-03-bg.jpg",
+				"character": "assets/img/samples/team-selection-character-03.png",
+				"team": "Knock Finish",
+				"game": "Bloody",
+				"category": "team-4"
+			},
+			{
+				"url": "https://www.facebook.com/EWaSslAk",
+				"bg": "assets/img/samples/team-selection-character-04-bg.jpg",
+				"character": "assets/img/samples/team-selection-character-04.png",
+				"team": "Knock Finish",
+				"game": "Zerox"
 			}
 		],
 		"list": [
@@ -1704,49 +1737,49 @@
 					"details-2": [
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Call of Duty League 2020 Atlanta",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
 							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"title": "AfterDark eSports Miami Open 2020",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Call of Duty Code Red 2v2",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
 							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"title": "CWL Japan National Cup Finals 2019",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "CWL London 2019",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
 							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"title": "WL Birmingham Open 2018CWL Atlanta Open 2018",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "CWL Dallas Open 2017",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
 						{
 							"icon": "award-medal",
-							"title": "Fastest kill in the league",
+							"title": "GFight Invitational",
 							"desc": "Killed an opponent in 0.23sec",
 							"date": "August 28th, 2015"
 						}
@@ -1774,36 +1807,36 @@
 					"details": [
 						{
 							"icon": "gamer-mouse",
-							"title": "RAPTOR RM-2569",
-							"desc": "Raxor",
-							"link_txt": "Get it now!",
-							"link_url": "#"
-						},
-						{
-							"icon": "headset",
-							"title": "SOUNDMASTER X5",
-							"desc": "Sorny",
+							"title": "ROCCAT Tyon 8200 DPI",
+							"desc": "ROCCAT",
 							"link_txt": "Get it now!",
 							"link_url": "#"
 						},
 						{
 							"icon": "keyboard",
-							"title": "CARBON Z81 RGB",
-							"desc": "Buccaneer",
-							"link_txt": "Get it now!",
-							"link_url": "#"
-						},
-						{
-							"icon": "screen",
-							"title": "GLX 0019 4K",
-							"desc": "Sangsteen",
+							"title": "Corsair K95",
+							"desc": "KEY BOARD",
 							"link_txt": "Get it now!",
 							"link_url": "#"
 						},
 						{
 							"icon": "gaming-chair",
-							"title": "BOTTOMS DELUXE 5",
-							"desc": "Swordfish",
+							"title": "Chair Gaming",
+							"desc": "Thunder X 3",
+							"link_txt": "Get it now!",
+							"link_url": "#"
+						},
+						{
+							"icon": "headset",
+							"title": "Sennheiser GSP 500",
+							"desc": "Headset",
+							"link_txt": "Get it now!",
+							"link_url": "#"
+						},
+						{
+							"icon": "screen",
+							"title": "HP Omen x27 ",
+							"desc": "Monitor",
 							"link_txt": "Get it now!",
 							"link_url": "#"
 						},
@@ -1820,10 +1853,10 @@
 					"title": "Livestream",
 					"stream": {
 						"id": "playhearthstone",
-						"provider": "twitch",
+						"provider": "facebook",
 						"title": "Davikinger plays \"Clash of eternity\"",
 						"thumb": "assets/img/samples/stream-img-01.jpg",
-						"channel_url": "#",
+						"channel_url": "https://www.facebook.com/SADOK-E-Gaming-101163365722198/?ref=pages_you_manage",
 						"avatar": "assets/img/samples/streams-archive-avatar-01.jpg",
 						"date": "August 3rd, 2018"
 					}

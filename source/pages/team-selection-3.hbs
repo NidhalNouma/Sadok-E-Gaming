@@ -8,63 +8,25 @@ body-class: bg-image bg-fixed bg--texture-01 bg--dotted-3x3
 	<div class="container container--large">
 		<div class="page-heading page-heading--default text-center w-100">
 			<div class="page-heading__subtitle h5">
-				<span class="color-primary">Please Select A</span>
+				<span class="color-primary">Please Select B</span>
 			</div>
-			<h1 class="page-heading__title h2">Game Squad</h1>
+			<h1 class="page-heading__title h2">BR SQUAD 2</h1>
 		</div>
 		<div class="row mt-sm-auto mb-sm-auto">
+			{{#each content.team.selection-3}}
 			<div class="col-sm-6 col-lg-3">
-				<div class="team-selection-item team-selection-item--style-2 team-1 text-center">
-					<a href="team-overview.html" class="team-selection-item__thumbnail">
-						<div class="team-selection-item__thumbnail-inner">
-							<img src="assets/img/samples/team-selection-thumb-01.jpg" alt="">
-							<img src="assets/img/samples/team-selection-thumb-team.png" alt="">
+				<div class="team-item team-item--v4 {{category}}">
+					<a href="{{url}}" class="team-item__thumbnail">
+						<div class="team-item__bg-holder">
+							<div class="team-item__bg" style="background-image: url({{bg}});"></div>
 						</div>
+						<div style="background-image: url({{character}});" class="team-item__img-primary"></div>
 					</a>
-					<img class="team-selection-item__logo team-selection-item__logo--bottom" src="assets/img/team-selection-logo-01-70.png" srcset="assets/img/team-selection-logo-01-140.png 2x" alt="">
-					<span class="team-selection-item__subtitle h6">Necromancers</span>
-					<h2 class="team-selection-item__title">Xenowatch</h2>
+					<span class="team-item__subtitle h6">{{team}}</span>
+					<h2 class="team-item__title">{{game}}</h2>
 				</div>
 			</div>
-			<div class="col-sm-6 col-lg-3">
-				<div class="team-selection-item team-selection-item--style-2 team-2 text-center">
-					<a href="team-overview.html" class="team-selection-item__thumbnail">
-						<div class="team-selection-item__thumbnail-inner">
-							<img src="assets/img/samples/team-selection-thumb-02.jpg" alt="">
-							<img src="assets/img/samples/team-selection-thumb-team.png" alt="">
-						</div>
-					</a>
-					<img class="team-selection-item__logo team-selection-item__logo--bottom" src="assets/img/team-selection-logo-02-70.png" srcset="assets/img/team-selection-logo-02-140.png 2x" alt="">
-					<span class="team-selection-item__subtitle h6">Necromancers</span>
-					<h2 class="team-selection-item__title">League of Heroes</h2>
-				</div>
-			</div>
-			<div class="col-sm-6 col-lg-3">
-				<div class="team-selection-item team-selection-item--style-2 team-3 text-center">
-					<a href="team-overview.html" class="team-selection-item__thumbnail">
-						<div class="team-selection-item__thumbnail-inner">
-							<img src="assets/img/samples/team-selection-thumb-03.jpg" alt="">
-							<img src="assets/img/samples/team-selection-thumb-team.png" alt="">
-						</div>
-					</a>
-					<img class="team-selection-item__logo team-selection-item__logo--bottom" src="assets/img/team-selection-logo-03-70.png" srcset="assets/img/team-selection-logo-03-140.png 2x" alt="">
-					<span class="team-selection-item__subtitle h6">Necromancers</span>
-					<h2 class="team-selection-item__title">Striker Go</h2>
-				</div>
-			</div>
-			<div class="col-sm-6 col-lg-3">
-				<div class="team-selection-item team-selection-item--style-2 team-4 text-center">
-					<a href="team-overview.html" class="team-selection-item__thumbnail">
-						<div class="team-selection-item__thumbnail-inner">
-							<img src="assets/img/samples/team-selection-thumb-04.jpg" alt="">
-							<img src="assets/img/samples/team-selection-thumb-team.png" alt="">
-						</div>
-					</a>
-					<img class="team-selection-item__logo team-selection-item__logo--bottom" src="assets/img/team-selection-logo-04-70.png" srcset="assets/img/team-selection-logo-04-140.png 2x" alt="">
-					<span class="team-selection-item__subtitle h6">Necromancers</span>
-					<h2 class="team-selection-item__title">Fortdaite</h2>
-				</div>
-			</div>
+			{{/each}}
 		</div>
 	</div>
 </main>
