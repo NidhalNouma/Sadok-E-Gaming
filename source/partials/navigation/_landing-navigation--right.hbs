@@ -2,6 +2,7 @@
 <nav class="main-nav">
 	<ul class="main-nav__list">
 		<li class="{{#ifpage 'blog-1' 'blog-2' 'blog-3' 'blog-4' 'blog-post'}}active{{/ifpage}}"><a href="#">News</a>
+		{{!-- 
 			<ul class="main-nav__sub">
 				<li class="{{#ifpage 'blog-1'}}active{{/ifpage}}"><a href="blog-1.html">News v1</a></li>
 				<li class="{{#ifpage 'blog-2'}}active{{/ifpage}}"><a href="blog-2.html">News v2</a></li>
@@ -10,8 +11,10 @@
 				<li class="{{#ifpage 'blog-classic'}}active{{/ifpage}}"><a href="blog-classic.html">News Classic</a></li>
 				<li class="{{#ifpage 'blog-post'}}active{{/ifpage}}"><a href="blog-post.html">Post Page</a></li>
 			</ul>
+		 --}}
 		</li>
 		<li class="{{#ifpage 'features-shortcodes' 'features-typography' 'features-404' 'features-faqs'}}active{{/ifpage}} has-child"><a href="#">Features</a>
+		{{!-- 
 			<div class="main-nav__megamenu">
 				<div class="row">
 					<div class="col-md-4">
@@ -108,15 +111,18 @@
 					</div>
 				</div>
 			</div>
+		 --}}
 		</li>
 		<li class="{{#ifpage 'shop' 'shop-2' 'shop-product' 'shop-checkout'}}active{{/ifpage}}">
 			<a href="#">Shop</a>
+			{{!-- 
 			<ul class="main-nav__sub">
 				<li class="{{#ifpage 'shop'}}active{{/ifpage}}"><a href="shop.html">Shop Page v1</a></li>
 				<li class="{{#ifpage 'shop-2'}}active{{/ifpage}}"><a href="shop-2.html">Shop Page v2</a></li>
 				<li class="{{#ifpage 'shop-product'}}active{{/ifpage}}"><a href="shop-product.html">Product Page</a></li>
 				<li class="{{#ifpage 'shop-checkout'}}active{{/ifpage}}"><a href="shop-checkout.html">Checkout Page</a></li>
 			</ul>
+			 --}}
 		</li>
 	</ul>
 </nav>
