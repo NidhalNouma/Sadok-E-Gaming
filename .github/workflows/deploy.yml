@@ -3,7 +3,7 @@ name: Gulp build and commit updated stylesheets
 on: [push]
 
 jobs:
-  grunt-build:
+  gulp-build:
 
     runs-on: ubuntu-latest
 
