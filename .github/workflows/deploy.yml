@@ -3,7 +3,7 @@ name: Gulp build and commit updated stylesheets
 on: [push]
 
 jobs:
-  gulp-build:
+  build_docs_folder:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
