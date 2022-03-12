@@ -13,9 +13,9 @@ jobs:
         - run: npm ci
         - run: npm run build 
         - uses: EndBug/add-and-commit@v9
-            with:
-              message: 'Deploy'
-              add: '.'
+          with:
+            message: 'Deploy'
+            add: '.'
 
     # - name: Compile with Gulp
     #   uses: elstudio/actions-js-build/build@v4
