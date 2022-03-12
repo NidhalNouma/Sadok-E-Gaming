@@ -1,4 +1,4 @@
-name: Gulp build and commit updated stylesheets
+name: Gulp build and commit
 
 on: [push]
 
@@ -12,10 +12,16 @@ jobs:
             node-version: 12
         - run: npm ci
         - run: npm run build 
-        - uses: EndBug/add-and-commit@v9
-          with:
-            message: 'Deploy'
-            add: '.'
+
+        - name: Commit report
+          run: |
+            git add .
+            git commit -m "Build"
+            git push
+        # - uses: EndBug/add-and-commit@v9
+        #   with:
+        #     message: 'Deploy'
+        #     add: '.'
 
     # - name: Compile with Gulp
     #   uses: elstudio/actions-js-build/build@v4
