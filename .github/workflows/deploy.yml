@@ -12,12 +12,19 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: 12
-    - name: Compile with Gulp
-      uses: elstudio/actions-js-build/build@v4
-      with:
-        wdPath: './web/themes/nw8'
+    - run: npm ci
+    - run: npm run build 
+     - uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Deploy'
+          add: '.'
 
-    - name: Commit changes
-      uses: elstudio/actions-js-build/commit@v4
-      with:
-        commitMessage: Build
+    # - name: Compile with Gulp
+    #   uses: elstudio/actions-js-build/build@v4
+    #   with:
+    #     wdPath: './web/themes/nw8'
+
+    # - name: Commit changes
+    #   uses: elstudio/actions-js-build/commit@v4
+    #   with:
+    #     commitMessage: Build
