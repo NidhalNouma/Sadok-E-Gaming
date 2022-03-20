@@ -42,7 +42,7 @@
     "yargs": "^11.0.0"
   },
   "scripts": {
-    "start": "gulp",
+    "start": "gulp ",
     "build": "gulp build --production && cp CNAME ./docs",
     "deploy": "gulp deploy --production"
   },
