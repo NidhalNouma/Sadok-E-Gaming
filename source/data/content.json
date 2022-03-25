@@ -1864,8 +1864,8 @@
 			}
 		},
 		"player-5": {
-			"name": "Sarah Stacy",
-			"nickname": "FAYEDBEBOP",
+			"name": "Nour Jeridi y",
+			"nickname": "BANOUR",
 			"photo": "assets/img/samples/player-info-page-player-photo-05.png",
 			"color": "color-5",
 			"sections": {
@@ -1873,40 +1873,34 @@
 					"details": [
 						{
 							"key": "Age",
-							"value": "22 Years"
+							"value": "24 Years"
 						},
 						{
 							"key": "Since",
-							"value": "March 2015"
+							"value": "March 2009"
 						},
 						{
 							"key": "Born",
-							"value": "Los Angeles, USA"
+							"value": "Tunisie"
 						},
 						{
-							"key": "Team",
-							"value": "Xenowatch"
+							"key": "Class",
+							"value": "SMG / Sniper
+							"
 						},
 						{
 							"key": "Role",
-							"value": "Support"
+							"value": "MP"
 						}
 					],
 					"social": [
+						
 						{
-							"link": "https://www.facebook.com/danfisher.dev/"
+							"link": "https://www.tiktok.com/@nourcodm?_d"
 						},
-						{
-							"link": "https://twitter.com/danfisher_dev"
-						},
-						{
-							"link": "https://twitch.tv"
-						},
-						{
-							"link": "https://www.instagram.com/dan.fisher.dev/"
-						}
+						
 					],
-					"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					"content": "Banour Test Test ....."
 				},
 				"stats": {
 					"title": "Statistics",
