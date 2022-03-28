@@ -1860,7 +1860,7 @@
 			}
 		},
 		"player-5": {
-			"name": "Nour Jeridi y",
+			"name": "Nour Jeridi ",
 			"nickname": "BANOUR",
 			"photo": "assets/img/samples/player-info-page-player-photo-05.png",
 			"color": "color-5",
@@ -1892,11 +1892,11 @@
 					"social": [
 						
 						{
-							"link": "https://www.facebook.com/nour.jeridi1920"
+							"link": "https://www.facebook.com/nour.jeridi1920.dev/"
 						},
 						
 					],
-					"content": "Banour Test Test   ....."
+					"content": "Banour Test Test"
 				},
 				"stats": {
 					"title": "Statistics",
