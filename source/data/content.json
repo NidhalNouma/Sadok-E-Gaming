@@ -1416,11 +1416,9 @@
 						},
 						{
 							"link": "https://www.tiktok.com/@nourcodm?_d_dev"
-						},
-						
-					
+						}
 					],
-					"content": "Banour Test Test"
+					"content": "Banour Test Test ."
 				},
 				"stats": {
 					"title": "Statistics",
@@ -1881,7 +1879,7 @@
 						},
 						{
 							"key": "Class",
-							"value": "
+							"value": ""
 							
 						},
 						{
@@ -1893,10 +1891,10 @@
 						
 						{
 							"link": "https://www.facebook.com/nour.jeridi1920.dev/"
-						},
+						}
 						
 					],
-					"content": "Banour Test Test test"
+					"content": "Banour Test Test"
 				},
 				"stats": {
 					"title": "Statistics",
