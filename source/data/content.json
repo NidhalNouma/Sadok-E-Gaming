@@ -855,8 +855,8 @@
 			},
 			{
 				"avatar": "assets/img/samples/streams-filter-avatar-04.png",
-				"name": "April Summers",
-				"nickname": "G-Huntress",
+				"name": "NOUR BANOUR",
+				"nickname": "G-Banour",
 				"social": [
 					"https://twitter.com/danfisher_dev",
 					"https://twitch.tv",
@@ -1190,7 +1190,7 @@
 						},
 						{
 							"label": "Avg Game (k)",
-							"title": "Damage",
+							"title": "Dmg",
 							"value": "15.34"
 						},
 						{
@@ -1205,7 +1205,7 @@
 						},{
 							"label": "KILLS",
 							"title": "KILLS",
-							"value": "103206"
+							"value": "103k"
 						}
 					],
 					"winratio": {
