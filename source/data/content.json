@@ -1186,31 +1186,31 @@
 						{
 							"label": "AVG Game",
 							"title": "Kills",
-							"value": "5.2"
+							"value": "1.03"
 						},
 						{
 							"label": "Avg Game (k)",
 							"title": "Damage",
-							"value": "7.1"
+							"value": "15.34"
 						},
 						{
-							"label": "Avg Game (k)",
-							"title": "Healing",
-							"value": "9.2"
+							"label": "GAMES PLAYED (k)",
+							"title": "GAMES",
+							"value": "9214"
 						},
 						{
-							"label": "Games",
+							"label": "MVP",
 							"title": "Won",
-							"value": "98"
+							"value": "931"
 						},{
-							"label": "Games",
-							"title": "Lost",
-							"value": "14"
+							"label": "KILLS",
+							"title": "KILLS",
+							"value": "103206"
 						}
 					],
 					"winratio": {
-						"label": "Win ratio",
-						"value": "87.5"
+						"label": "TOP 3",
+						"value": "3081"
 					}
 				},
 				"achievements": {
@@ -1224,7 +1224,7 @@
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1236,7 +1236,7 @@
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1250,7 +1250,7 @@
 					"details-2": [
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1262,7 +1262,7 @@
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1274,7 +1274,7 @@
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1286,7 +1286,7 @@
 						},
 						{
 							"icon": "achievements-trophy",
-							"title": "Xenowatch World League",
+							"title": "Banour World League",
 							"desc": "1st place",
 							"date": "February 14th, 2017"
 						},
@@ -1300,7 +1300,7 @@
 					"details-3": [
 						{
 							"icon": "kills",
-							"title": "29 Kills",
+							"title": "40 Kills",
 							"label": "Record kills"
 						},
 						{
@@ -1310,8 +1310,8 @@
 						},
 						{
 							"icon": "healing",
-							"title": "58.607",
-							"label": "Record healing"
+							"title": "70.14",
+							"label": "Avg.ACCURCY"
 						}
 					]
 				},
@@ -1366,10 +1366,10 @@
 					"title": "Livestream",
 					"stream": {
 						"id": "iH0wacpNuDQ",
-						"provider": "youtube",
+						"provider": "facebook",
 						"title": "Davikinger plays \"Clash of eternity\"",
 						"thumb": "assets/img/samples/stream-img-01.jpg",
-						"channel_url": "#",
+						"channel_url": "https://www.facebook.com/nour.jeridi1920",
 						"avatar": "assets/img/samples/streams-archive-avatar-01.jpg",
 						"date": "August 3rd, 2018"
 					}
@@ -2603,7 +2603,7 @@
 				"title": "SADOK E Gaming",
 				"subtitle": "Discord",
 				"icon": "fab fa-discord",
-				"url": "https://discord.gg/paxFKxgv"
+				"url": "https://discord.gg/hgjKKuzz"
 			}
 		]
 	}
