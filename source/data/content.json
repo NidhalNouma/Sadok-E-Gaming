@@ -1387,11 +1387,11 @@
 					"details": [
 						{
 							"key": "Age",
-							"value": "25 Years"
+							"value": "50 Years"
 						},
 						{
 							"key": "Since",
-							"value": "March 2009"
+							"value": "March 2001"
 						},
 						{
 							"key": "Born",
@@ -1408,14 +1408,14 @@
 					],
 					"social": [
 						{
-							"link": "https://www.facebook.com/nour.jeridi1920.dev/"
+							"link": "https://www.facebook.com/sadok.dallel/"
 						},
 						
 						{
-							"link": "https://www.tiktok.com/@nourcodm?_d_dev"
+							"link": ""
 						}
 					],
-					"content": "Banour Test Test ."
+					"content": "SADOKDOK ."
 				},
 				"stats": {
 					"title": "Statistics",
@@ -2593,7 +2593,7 @@
 				"title": "SADOK E Gaming",
 				"subtitle": "Twitter",
 				"icon": "fab fa-twitter",
-				"url": "https://twitter.com/dallel_sadok"
+				"url": "https://twitter.com/sadokdallel"
 			},
 			{
 				"title": "SADOK E Gaming",
